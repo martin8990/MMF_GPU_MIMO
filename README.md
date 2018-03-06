@@ -3,8 +3,16 @@ GPU Accelerated MIMO for lab experiments concerning Multimode Fiber systems. For
 
 This Repository contains a GPU Python Implementation of the Multiple input, Multiple output adaptive equalizer required for Multimode fiber systems.
 
-Inside several Python files can be Found.
+# Requirements
 
+Python 3.x (3.6.3)
+Pyculib (1.0.2)
+Numba (0.35.0)
+Numpy (1.13.3)
+Matplotlib (2.1.0)
+Cuda Toolkit (9)
+
+Inside the repository several Python files can be Found.
 # Main.py
 Sample usage of the MIMO.
 # Transmitter.py
