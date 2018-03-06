@@ -5,6 +5,7 @@ This Repository contains a GPU Python Implementation of the Multiple input, Mult
 
 # Requirements
 
+Added the version used to write the library just in case.  
 Python 3.x (3.6.3)
 Pyculib (1.0.2)
 Numba (0.35.0)
